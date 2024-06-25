@@ -1,0 +1,29 @@
+**SYNTAX Q-METHODOLOGIE STUDIE IB**
+
+use **locatie data** 
+
+*installing qfactor user-written program by Akthar-Danesh
+ssc install qfactor
+
+*opties verkennen met verschillende aantallen factors (op basis van zowel kwantitatieve (statistische) als kwalitatieve (inhoudelijke) gegevens wordt de keuze bepaald voor het aantal factors) 
+qfactor sort_p1-sort_q31, nfactor(10) extraction(pf) rotation(oblimin) bipolar(2)
+qfactor sort_p1-sort_q31, nfactor(8) extraction(pf) rotation(oblimin) bipolar(2)
+qfactor sort_p1-sort_q31, nfactor(5) extraction(pf) rotation(oblimin) bipolar(2)
+
+*laatste fase was keuze tussen 3 of 4 factoren, uiteindelijk 3 factoroplossing gekozen
+qfactor sort_p1-sort_q31, nfactor(4) extraction(pf) rotation(oblimin) bipolar(2)
+qfactor sort_p1-sort_q31, nfactor(3) extraction(pf) rotation(oblimin) bipolar(2)
+
+*nieuwe dataset opgeslagen met de factors als sorts (=ideale sort als iemand 100% eens zou zijn met die factor) voor zowel de optie met 3 factors als de optie met 4 factors, om deze te kunnen vergelijken obv correlaties  
+use **locatie data** 
+
+correlate f1_3 f2_3 f3_3
+correlate f1_4 f2_4 f3_4 f4_4
+correlate f1_3 f2_3 f3_3 f1_4 f2_4 f3_4 f4_4
+
+use **locatie data** 
+
+**onderstaande is de uiteindelijke definitieve keuze voor de analyse** 
+qfactor sort_p1-sort_q31, nfactor(3) extraction(pf) rotation(oblimin) bipolar(2)
+
+**op basis van deze syntax kunnen alle benodigde kwantitatieve resultaten gegenereerd worden. deze kunnen vervolgens met behulp van de kwalitatieve gegevens verder geïnterpreteerd worden.** 
