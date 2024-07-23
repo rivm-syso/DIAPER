@@ -1,0 +1,80 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: DIAPER (Data-InfrAstructure for ParEnts and ChildRen)
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - name: >-
+      Afdeling Gezondheid en Zorg Nationaal, Centrum
+      Volksgezondheid, Zorg en Maatschappij, National
+      Institute for Public Health and Environment
+    email: diaper@rivm.nl
+    website: 'https://www.rivm.nl/monitoren-zwangerschap-en-geboorte'
+repository-code: 'https://github.com/rivm-syso/DIAPER'
+abstract: >
+  De Data-InfrAstructure for ParEnts and ChildRen, DIAPER is
+  geschikt voor onderzoek rondom geboortezorg, zwangerschap
+  en bevalling, en de eerste jaren van het leven. 
+
+  De landelijke dataset bevat zwangerschap en geboorte
+  gegevens van Perined, zorgverzekerings gegevens van Vektis
+  en sociaal-economisch-demografische gegevens van CBS. 
+
+  Het RIVM gebruikt DIAPER voor verschillende monitors:
+  Landelijke Monitor Kansrijke Start, Lerende Lokale Monitor
+  Kansrijke Start, Onbedoelde zwangerschappen en Passende
+  bekostiging van de geboortezorg. Deze monitoren worden
+  jaarlijks geupdate met actuele cijfers. 
+
+  De scripts en de code van de analyses waarmee de
+  indicatoren en de resultaten van de monitors jaarlijks
+  ge-update worden, worden gedeeld in de GitHub repository
+  DIAPER.
+keywords:
+  - Eerste duizend dagen
+  - Geboortezorg
+  - Zwangerschap
+  - Landelijke data
+  - Nederland
+  - Monitor
+  - Kansrijke Start
+  - Passende bekostiging
+  - Onbedoelde zwangerschap
+  - Perinatale data
+  - Zorgverzekerings data
+license: EUPL-1.2
+commit: 60dea09
+version: v1.0.0
+date-released: '2024-07-22'
+contact:
+  - email: diaper@rivm.nl
+preferred-citation:
+  scope: "Cite this paper if you want to reference the general concepts of the data-infrastructure DIAPER."
+  authors:
+  - family-names: Scheefhals
+    given-names: Zoë T.M.
+    orcid: "https://orcid.org/0000-0001-6404-9936"
+  - family-names: Vries
+    given-names: Eline F.
+    name-particle: de
+    orcid: "https://orcid.org/0000-0002-1336-4327"
+  - family-names: Molenaar
+    given-names: Joyce M.
+    orcid: "https://orcid.org/0000-0002-8025-040X"
+  - family-names: Numans
+    given-names: Mattijs E.
+    orcid: "https://orcid.org/0000-0002-0368-5426"
+  - family-names: Struijs
+    given-names: Jeroen N.
+    orcid: "https://orcid.org/0000-0002-7493-6720"
+  title: "Observational Data for Integrated Maternity Care: Experiences with a Data-Infrastructure for Parents and Children in the Netherlands."
+  doi: 10.5334/ijic.7012
+  journal: "International journal of integrated care"
+  type: article
+  volume: 23
+  year: 2023
+
