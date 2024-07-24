@@ -8,9 +8,7 @@ message: >-
 type: software
 authors:
   - name: >-
-      Afdeling Gezondheid en Zorg Nationaal, Centrum
-      Volksgezondheid, Zorg en Maatschappij, National
-      Institute for Public Health and Environment
+      National Institute for Public Health and Environment
     email: diaper@rivm.nl
     website: 'https://www.rivm.nl/monitoren-zwangerschap-en-geboorte'
 repository-code: 'https://github.com/rivm-syso/DIAPER'
