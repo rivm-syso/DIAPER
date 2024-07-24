@@ -1,7 +1,7 @@
 # This CITATION.cff file was generated with cffinit.
 # Visit https://bit.ly/cffinit to generate yours today!
 cff-version: 1.2.0
-title: DIAPER (Data-InfrAstructure for ParEnts and ChildRen)
+title: DIAPER: Data-InfrAstructure for ParEnts and ChildRen
 message: >-
   If you use this software, please cite it using the
   metadata from this file.
@@ -45,29 +45,30 @@ commit: 60dea09
 version: v1.0.0
 contact:
   - email: diaper@rivm.nl
-preferred-citation:
-  scope: "Cite this paper if you want to reference the general concepts of the data-infrastructure DIAPER."
-  authors:
-  - family-names: Scheefhals
-    given-names: Zoë T.M.
-    orcid: "https://orcid.org/0000-0001-6404-9936"
-  - family-names: Vries
-    given-names: Eline F.
-    name-particle: de
-    orcid: "https://orcid.org/0000-0002-1336-4327"
-  - family-names: Molenaar
-    given-names: Joyce M.
-    orcid: "https://orcid.org/0000-0002-8025-040X"
-  - family-names: Numans
-    given-names: Mattijs E.
-    orcid: "https://orcid.org/0000-0002-0368-5426"
-  - family-names: Struijs
-    given-names: Jeroen N.
-    orcid: "https://orcid.org/0000-0002-7493-6720"
-  title: "Observational Data for Integrated Maternity Care: Experiences with a Data-Infrastructure for Parents and Children in the Netherlands."
-  journal: "International journal of integrated care"
-  type: article
-  volume: 23
-  year: 2023
+references:
+  - scope: "Cite this paper if you want to reference the general concepts of the data-infrastructure DIAPER."
+	authors:
+	  - family-names: Scheefhals
+		given-names: Zoë T.M.
+		orcid: "https://orcid.org/0000-0001-6404-9936"
+	  - family-names: Vries
+		given-names: Eline F.
+		name-particle: de
+		orcid: "https://orcid.org/0000-0002-1336-4327"
+	  - family-names: Molenaar
+		given-names: Joyce M.
+		orcid: "https://orcid.org/0000-0002-8025-040X"
+	  - family-names: Numans
+		given-names: Mattijs E.
+		orcid: "https://orcid.org/0000-0002-0368-5426"
+	  - family-names: Struijs
+		given-names: Jeroen N.
+		orcid: "https://orcid.org/0000-0002-7493-6720"
+	title: "Observational Data for Integrated Maternity Care: Experiences with a Data-Infrastructure for Parents and Children in the Netherlands."
+	journal: "International journal of integrated care"
+	type: article
+	volume: 23
+	year: 2023
+	doi: 10.5334/ijic.7012
 doi: 10.21945/f4300c30-b337-45c7-80b0-47043e71beb2
 date-released: 2024-07-23
