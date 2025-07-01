@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.21945/f4300c30-b337-45c7-80b0-47043e71beb2.svg)](https://doi.org/10.21945/f4300c30-b337-45c7-80b0-47043e71beb2)
+
 # DIAPER: Data-InfrAstructure for ParEnts and ChildRen
 
 De Data-InfrAstructure for ParEnts and ChildRen, DIAPER is geschikt voor onderzoek rondom geboortezorg, zwangerschap en bevalling, en de eerste jaren van het leven. 
