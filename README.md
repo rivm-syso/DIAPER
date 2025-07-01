@@ -26,7 +26,8 @@ De data-infrastruktuur van DIAPER wordt ook gebruik voor de analyses in verdiepe
 
 ## Beschikbaarheid code
 In deze repository wordt de code gedeeld van de volgende monitoren:
-- [ ] [Landelijke Monitor Kansrijke Start 2023](Landelijke%20Monitor%20Kansrijke%20Start)
+- [ ] [Landelijke Monitor Kansrijke Start 2023](Landelijke%20Monitor%20Kansrijke%20Start%202023)
+- [ ] [Landelijke Monitor Kansrijke Start 2024](Landelijke%20Monitor%20Kansrijke%20Start%202024)
 
 De scripts en de data van de volgende papers zijn [hier](Papers) te vinden:
 - [ ] [Stakeholder perspectives on payment reform in maternity care in the Netherlands: A Q-methodology study](Papers/stakeholder_perspectives_on_payment_reform_in_maternity_care_in_the_netherlands_a_q-methodology_study) 
