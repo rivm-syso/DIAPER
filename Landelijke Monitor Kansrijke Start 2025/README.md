@@ -3,7 +3,7 @@ Zeven van de achttien indicatoren van de monitor Kansrijke Start 2024 zijn bepaa
 In deze map staan de R-scripts die hiervoor zijn gebruikt.
 
 Merk op dat het design en de flow gelijk is aan die van de scripts van de monitor 2024.
-We verwijzen naar [Landelijke Monitor Kansrijke Start 2024](./../Landelijke Monitor Kansrijke Start 2024.README.md) voor de code en scripts voor het inlezen van de gegevens uit de microdata bestanden van CBS.
+We verwijzen naar [Landelijke Monitor Kansrijke Start 2024](./../Landelijke%20Monitor%20Kansrijke%20Start%202024) voor de code en scripts voor het inlezen van de gegevens uit de microdata bestanden van CBS.
 
 In deze map
 - script om de dataset te bouwen
